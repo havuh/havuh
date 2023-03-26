@@ -2,7 +2,7 @@
 I am a software engineer from Peru
 
 - 🌱 I’m currently learning **Data analytics**
-- 👨‍💻 All of my projects are available at [on my GitHub profile](on my GitHub profile)
+- 👨‍💻 All of my projects are available at on my GitHub profile
 - 📫 How to reach me **medrano182903@gmail.com**
 - ⚡ Fun fact **I try all technologies at least once**
 </p>
