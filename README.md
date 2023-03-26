@@ -1,12 +1,9 @@
 <h1>Hi there, I'm Alejandro Jacobo</h1>
 <h3>I am a software engineer from Peru</h3>
-🌱 I’m currently learning **Data analytics**
-
-👨‍💻 All of my projects are available at [on my GitHub profile](on my GitHub profile)
-
-📫 How to reach me **medrano182903@gmail.com**
-
-⚡ Fun fact **I try all technologies at least once**
+- 🌱 I’m currently learning **Data analytics**
+- 👨‍💻 All of my projects are available at [on my GitHub profile](on my GitHub profile)
+- 📫 How to reach me **medrano182903@gmail.com**
+- ⚡ Fun fact **I try all technologies at least once**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
