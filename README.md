@@ -1,9 +1,7 @@
-<h1 align="center">Hi there, I'm Alejandro Jacobo</h1>
-<h3 align="center">I am a software engineer from Peru</h3>
+<h1>Hi there, I'm Alejandro Jacobo</h1>
+<h3>I am a software engineer from Peru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=havuh&label=Profile%20views&color=0e75b6&style=flat" alt="havuh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=havuh" alt="havuh" /></a> </p>
 
 - 🌱 I’m currently learning **Data analytics**
 
