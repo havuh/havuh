@@ -3,7 +3,7 @@ I am a software engineer from Peru
 
 - 🌱 I’m currently learning **Data analytics**
 - 👨‍💻 All of my projects are available at on my GitHub profile
-- 📫 How to reach me **medrano182903@gmail.com**
+- 📫 How to reach me **alejandr.jacobo@gmail.com**
 - ⚡ Fun fact **I try all technologies at least once**
 </p>
 <h3 align="left">Languages and Tools:</h3>
