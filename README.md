@@ -1,5 +1,5 @@
 # Hi there, I'm Alejandro Jacobo
-I am a frontend developer from Peru
+I am a web developer from Peru
 
 - 🌱 I’m currently learning **Backend Technologies**
 - 📫 How to reach me **alejandr.jacobo@gmail.com**
